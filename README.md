@@ -1,0 +1,2 @@
+# Nuspeak
+New speak
